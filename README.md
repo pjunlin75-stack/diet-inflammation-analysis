@@ -1,4 +1,3 @@
-```markdown
 # 膳食因素与全身炎症分析模板
 ### NHANES 2017-2018 (Python)
 
@@ -13,8 +12,6 @@
 - 代码结构清晰，适合作为学习模板
 
 ## 文件结构
-
-```
 ├── scripts/                  # 分析脚本
 │   ├── omega_crp_nhanes.py
 │   ├── sodium_crp_analysis.py
@@ -23,9 +20,7 @@
 ├── results/                  # 生成的图表
 │   ├── *.png
 └── README.md
-```
-
-## 如何使用本模板
+text## 如何使用本模板
 
 1. 复制任意 `scripts/` 里的 `.py` 文件
 2. 修改 `variable_code` 和标题
@@ -44,5 +39,3 @@
 - NHANES 公开数据
 
 ---
-
-
